@@ -1,5 +1,2 @@
-.DS_Store
 node_modules
-coverage
-dist
-*.log
+yarn-error.log
